@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\PlayerMarine.fbx</Source>
+      <Name>Models\PlayerMarine</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Parameters>
+        <Data Key="TexturePath">../Textures/</Data>
+        <Data Key="GenerateTangentFrame">True</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\PlayerMarine.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\EnemyBeast.fbx</Source>
+      <Name>Models\EnemyBeast</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\EnemyBeast.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>gndMoon.FBX</Source>
+      <Name>gndMoon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\gndMoon.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>walltext.FBX</Source>
+      <Name>walltext</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\walltext.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Door2.FBX</Source>
+      <Name>Models\Door2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\Door2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Plant.FBX</Source>
+      <Name>Models\Plant</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\Plant.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\GND.FBX</Source>
+      <Name>Model2\GND</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\GND.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\Blood2.FBX</Source>
+      <Name>Model2\Blood2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\Blood2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\feshang.FBX</Source>
+      <Name>Model2\feshang</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\feshang.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\tree.FBX</Source>
+      <Name>Model2\tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\tree.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\WallF.FBX</Source>
+      <Name>Model2\WallF</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\WallF.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\Tank.FBX</Source>
+      <Name>Model2\Tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\Tank.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model3\stone.FBX</Source>
+      <Name>Model3\stone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model3\stone.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\WaterTowwer.FBX</Source>
+      <Name>Marhale2\WaterTowwer</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\WaterTowwer.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\wood.FBX</Source>
+      <Name>Marhale2\wood</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\wood.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\GND2.FBX</Source>
+      <Name>Marhale2\GND2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\GND2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Rock.FBX</Source>
+      <Name>Marhale2\Rock</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Rock.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\koh.FBX</Source>
+      <Name>Marhale2\koh</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\koh.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Tank_MG.FBX</Source>
+      <Name>Marhale2\Tank_MG</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Tank_MG.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Truck.FBX</Source>
+      <Name>Marhale2\Truck</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Truck.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\sandBag.FBX</Source>
+      <Name>Marhale2\sandBag</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\sandBag.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Tanker.FBX</Source>
+      <Name>Marhale2\Tanker</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Tanker.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\bomb.FBX</Source>
+      <Name>Marhale2\bomb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\bomb.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerMarineDiffuse.jpg</Source>
+      <Name>Textures\PlayerMarineDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\PlayerMarineDiffuse.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\WeaponMachineGunDiffuse.jpg</Source>
+      <Name>Textures\WeaponMachineGunDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\WeaponMachineGunDiffuse.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerMarineNormal.tga</Source>
+      <Name>Textures\PlayerMarineNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\PlayerMarineNormal.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\engine_diff_tex.tga</Source>
+      <Name>Models\engine_diff_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\engine_diff_tex.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\turret_alt_diff_tex.tga</Source>
+      <Name>Models\turret_alt_diff_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Models\turret_alt_diff_tex.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\crosshair.png</Source>
+      <Name>Textures\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\crosshair.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastDiffuse.jpg</Source>
+      <Name>Textures\EnemyBeastDiffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\EnemyBeastDiffuse.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastNormal.png</Source>
+      <Name>Textures\EnemyBeastNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\EnemyBeastNormal.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EnemyBeastSpecular.jpg</Source>
+      <Name>Textures\EnemyBeastSpecular</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\EnemyBeastSpecular.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\EvilDrone_Diff.jpg</Source>
+      <Name>Model2\EvilDrone_Diff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\EvilDrone_Diff.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>gndTexture.jpg</Source>
+      <Name>gndTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\gndTexture.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Cloud001.png</Source>
+      <Name>Cloud001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Cloud001.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\ground1.jpg</Source>
+      <Name>Model2\ground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\ground1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\baner.jpg</Source>
+      <Name>Model2\baner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\baner.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\Health.jpg</Source>
+      <Name>Model2\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\Health.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model2\box2.jpg</Source>
+      <Name>Model2\box2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model2\box2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\border.png</Source>
+      <Name>Textures\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Textures\border.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\endofgame.jpg</Source>
+      <Name>Splash\endofgame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Splash\endofgame.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Help.jpg</Source>
+      <Name>Splash\Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Splash\Help.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\GameOver.jpg</Source>
+      <Name>Splash\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Splash\GameOver.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\Splash.jpg</Source>
+      <Name>Splash\Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Splash\Splash.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle004.png</Source>
+      <Name>Particle004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Particle004.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle005.png</Source>
+      <Name>Particle005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Particle005.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model3\MOON.JPG</Source>
+      <Name>Model3\MOON</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Model3\MOON.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\base_stone3_moss.tga</Source>
+      <Name>Marhale2\base_stone3_moss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\base_stone3_moss.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Brevno_krugloe.jpg</Source>
+      <Name>Marhale2\Brevno_krugloe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Brevno_krugloe.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\M_02___Default1.JPG</Source>
+      <Name>Marhale2\M_02___Default1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\M_02___Default1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\M_03___Default1.JPG</Source>
+      <Name>Marhale2\M_03___Default1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\M_03___Default1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Sack1.JPG</Source>
+      <Name>Marhale2\Sack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Sack1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\g1.jpg</Source>
+      <Name>Marhale2\g1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\g1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\soil_cracked_0015_01_preview.jpg</Source>
+      <Name>Marhale2\soil_cracked_0015_01_preview</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\soil_cracked_0015_01_preview.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\boulder-rock-texture.jpg</Source>
+      <Name>Marhale2\boulder-rock-texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\boulder-rock-texture.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\Churchill2.tga</Source>
+      <Name>Marhale2\Churchill2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\Churchill2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\churchill_track_alpha.tga</Source>
+      <Name>Marhale2\churchill_track_alpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\churchill_track_alpha.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\churchill_wheels_alpha.tga</Source>
+      <Name>Marhale2\churchill_wheels_alpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\churchill_wheels_alpha.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\flatnose_truck.tga</Source>
+      <Name>Marhale2\flatnose_truck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\flatnose_truck.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\flatnose_truck_glass.tga</Source>
+      <Name>Marhale2\flatnose_truck_glass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\flatnose_truck_glass.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\A1296994.jpg</Source>
+      <Name>Marhale2\A1296994</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\A1296994.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\tanker_wrecked.tga</Source>
+      <Name>Marhale2\tanker_wrecked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\tanker_wrecked.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\tanker_wrecked_envmask.tga</Source>
+      <Name>Marhale2\tanker_wrecked_envmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\tanker_wrecked_envmask.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash\endofgame2.jpg</Source>
+      <Name>Splash\endofgame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Splash\endofgame2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Marhale2\v_eq_pipebomb.tga</Source>
+      <Name>Marhale2\v_eq_pipebomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Marhale2\v_eq_pipebomb.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>hudFont.spritefont</Source>
+      <Name>hudFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\hudFont.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Xna\Project\Source\XNAnimation Samples\Samples Content\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Xna\Project\Source\XNAnimation Samples\Samples Content\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Xna\Project\Source\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Xna\Project\Source\XNAnimation Samples\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\Xna\Project\Source\XNAnimation\Windows\XNAnimationPipeline.dll</Key>
+        <Value>2010-02-05T13:11:34+03:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-16T14:38:16.1596784+04:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

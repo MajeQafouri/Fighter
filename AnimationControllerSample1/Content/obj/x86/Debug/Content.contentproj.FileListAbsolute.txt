@@ -1,0 +1,20 @@
+C:\Users\Majid\Desktop\Riging\Project\Avatar\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Riging\Avatar\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\New folder\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Animation With Control\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Heightmap\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\new tank and Fighter\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Animation\Animation With Collision Control\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Download\Animation With Collision Control\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Download\Animation With Click\Animation With Collision Control\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Download\Animation With Click 2\Animation With Collision Control\Animation With Control2\XNAnimation_0.7.0.0_BETA3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Majid\Desktop\Download\Animation With Click 2\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vina\Desktop\3780456\XNA Learning\Download\Animation With Click 2\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vina\Desktop\Desktop\XNA Learning\Download\Animation With Click 2\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vina\Desktop\Desktop\XNA Learning\Download\Animation With Click3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vina\Desktop\Animation With Click3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Back Up Project  MAjid\13\Animation With Click3\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vina\Desktop\Project\Source\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Xna\Project\Source\XNAnimation Samples\Samples Content\Content\obj\x86\Debug\ResolveAssemblyReference.cache
