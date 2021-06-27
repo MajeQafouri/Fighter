@@ -1,0 +1,2 @@
+# Fighter-XNA-3DGame
+Fighter as a 3D game, designed with Microsoft C# and Microsoft XNA technology. This game got 2 simple levels. There are so many horrific creatures. The creatures look like a spider, hence you have to kill them :)  Some general game principle regarded at this project.   Collision detection  3D model  Audio effects  and etc   There aren't unit test, oop concepts and etc. don't blame me, I was unskillful 
